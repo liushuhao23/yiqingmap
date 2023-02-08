@@ -1,5 +1,7 @@
 # epidemic
 
+# 下线了，没有疫情了，哈哈哈
+
 ## Project setup
 ```
 npm install
